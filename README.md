@@ -1,2 +1,4 @@
 # NiteshMishra
-This is my profile to define me.
+<html>
+  <b>I am learner of new technology and improving it with my skill.</b>
+</html>
